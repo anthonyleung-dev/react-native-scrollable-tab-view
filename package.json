@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/anthonyleung-dev/react-native-scrollable-tab-view#readme",
   "dependencies": {
-    "@react-native-community/viewpager": "3.3.0",
-    "create-react-class": "^15.6.2",
     "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.6.0",
+    "react": "^17.0.2",
+    "react-native-pager-view": "^5.4.25",
     "react-timer-mixin": "^0.13.3"
   },
   "devDependencies": {
